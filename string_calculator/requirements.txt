@@ -70,7 +70,7 @@ ply==3.11
 prometheus-client==0.7.1
 prompt-toolkit==1.0.18
 ptyprocess==0.6.0
-py==1.8.0
+py==1.10.0
 pycparser==2.20
 pycrypto==2.6.1
 Pygments==2.5.2
